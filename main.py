@@ -3,7 +3,7 @@
 # ------------------------------  André Luís Bento Ferreira -----------------------
 # ------------------------------  Celso Hector Silva Sales ------------------------
 # -----------------------------  Luiz Felipe Macedo Alencar de Menezes -------------
-
+# -----------------------------  Paulo Gabriel Viera Alves -------------------------
 
 from poke import Pokemon
 import random
