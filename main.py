@@ -1,9 +1,9 @@
 # 2º Ano B Vespertino Informática
-#Alunos:
-# André Luís Bento Ferreira
-# Celso Hector Silva Sales
-# Luiz Felipe Macedo Alencar de Menezes
-# Paulo Gabriel Alves
+# -------------------------------- Alunos/Programadores ----------------------------
+# ------------------------------  André Luís Bento Ferreira -----------------------
+# ------------------------------  Celso Hector Silva Sales ------------------------
+# -----------------------------  Luiz Felipe Macedo Alencar de Menezes -------------
+
 
 from poke import Pokemon
 import random
